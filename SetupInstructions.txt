@@ -19,7 +19,7 @@
 
 2. **Database Setup:**  
    - Open your database management tool (e.g., phpMyAdmin).  
-   - Import the `food-site.sql` file into your database.  
+   - Import the `news-project.sql` file into your database.  
 
 3. **Start the Backend Server:**  
    - Use a PHP backend server (e.g., XAMPP).  
