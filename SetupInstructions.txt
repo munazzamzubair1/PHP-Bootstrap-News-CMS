@@ -1,0 +1,36 @@
+
+**Login System Details**  
+
+**Admin Login:**  
+- **Username:** `munazzam`  
+- **Password:** `admin`  
+
+**User Login:**  
+- **Username:** `saddar`  
+- **Password:** `saddar`  
+
+---
+
+**Setup Instructions**  
+
+1. **Prepare the Project:**  
+   - Download the project files.  
+   - Rename the main project folder to `news-project`.  
+
+2. **Database Setup:**  
+   - Open your database management tool (e.g., phpMyAdmin).  
+   - Import the `food-site.sql` file into your database.  
+
+3. **Start the Backend Server:**  
+   - Use a PHP backend server (e.g., XAMPP).  
+   - Ensure the project folder is placed inside the `htdocs` directory.  
+
+4. **Access the Application:**  
+   - Open your browser and navigate to:  
+     - **User Panel:** `http://localhost/yourdirectory/news-project`  
+     - **Admin Panel:** `http://localhost/yourdirectory/news-project/admin`  
+   - Replace **`yourdirectory`** with the actual folder name where your project resides in the `htdocs` directory (e.g., `my-projects`).  
+
+5. **Login to the System:**  
+   - Use the provided credentials to log in to the respective panels.  
+
